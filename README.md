@@ -41,7 +41,7 @@ The dashboard provides analysis of:
 
 ## 📷 Dashboard Preview
  screenshots of my dashboard.
-
+https://github.com/aditi-coder19/HR-Analytics-Dashboard/blob/main/Screenshot%202026-09-20%20122645.png
 
 
 ## 💡 Key Learnings
